@@ -1,12 +1,12 @@
-# 6枢 確定
+# 6枠 確定
 
-更新: 2026-09-09 12:50 JST
-同じ枢の再取得は24時間後。取得幅は直近24時間。
+更新: 2026-09-09 13:20 JST
+同じ枠の再取得は24時間後。取得幅は直近24時間。
 56人（9/10/10/10/9/8）。@elonmusk 外し。
 
 見出しは「名前 @handle」。
 
-## 枢1  00:00 JST
+## 枠1  00:00 JST
 - Sam Altman @sama
 - OpenAI @OpenAI
 - Anthropic @AnthropicAI
@@ -17,7 +17,7 @@
 - Simon Willison @simonw
 - 金井良太 @kanair
 
-## 枢2  04:00 JST
+## 枠2  04:00 JST
 - Grok Bot @bot
 - Greg Brockman @gdb
 - Dario Amodei @DarioAmodei
@@ -29,7 +29,7 @@
 - Mark Solms @Mark_Solms
 - Karl Friston @KarlFristonNews
 
-## 枢3  08:00 JST
+## 枠3  08:00 JST
 - Tibo @thsottiaux
 - Demis Hassabis @demishassabis
 - Satya Nadella @satyanadella
@@ -41,7 +41,7 @@
 - Joscha Bach @Plinz
 - Noam Brown @polynoamial
 
-## 枢4  12:00 JST
+## 枠4  12:00 JST
 - Mustafa Suleyman @mustafasuleyman
 - Sundar Pichai @sundarpichai
 - Geoffrey Hinton @geoffreyhinton
@@ -53,7 +53,7 @@
 - Michael Levin @drmichaellevin
 - Earl Miller @MillerLabMIT
 
-## 枢5  16:00 JST
+## 枠5  16:00 JST
 - Yoshua Bengio @Yoshua_Bengio
 - Patrick Collison @patrickc
 - Thomas Wolf @Thom_Wolf
@@ -64,7 +64,7 @@
 - Gary Marcus @GaryMarcus
 - Blaise Agüera y Arcas @blaiseaguera
 
-## 枢6  20:00 JST
+## 枠6  20:00 JST
 - Jeff Sebo @jeffrsebo
 - Philip Goff @Philip_Goff
 - Susan Schneider @DrSueSchneider
