@@ -1,11 +1,10 @@
-# 6枠ドラフト（修正用）
+# 6枠 確定
 
-更新: 2026-09-09 11:43 JST
+更新: 2026-09-09 11:52 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-現在 57人（10/10/10/10/9/8）。
+56人（9/10/10/10/9/8）。@elonmusk 外し。
 
 ## 枠1  00:00 JST
-- @elonmusk
 - @sama
 - @OpenAI
 - @AnthropicAI
@@ -72,19 +71,3 @@
 - @sapinker
 - @dioscuri
 - @johnennis
-
----
-
-## 今回入れた
-@Mark_Solms @KarlFristonNews @ID_AA_Carmack @drmichaellevin @kanair @MillerLabMIT @polynoamial @simonw
-@johnennis は枠6にそのまま
-
-## 今回外した
-@xai @SemiAnalysis_ @fish_kyle3 @dylan522p @rgblong @patrickbutlin @DrJimFan @NeelNanda5 @eleosai @algekalipso @CaseyNewton
-
-## 入れるかも（未入れ）
-@MelMitchell1 @erikbryn
-
-## 保留（枠に残している / 外に残している）
-枠内: @Yoshua_Bengio @DrSueSchneider @mpshanahan
-枠外: @percyliang
