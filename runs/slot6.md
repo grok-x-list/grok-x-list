@@ -1,0 +1,225 @@
+# 枠6 | 2026-09-09 12:35 JST | lookback 24h | 8 handles
+
+## Jeff Sebo @jeffrsebo
+url: https://x.com/jeffrsebo/status/2097484049564529083
+id: 2097484049564529083
+user: jeffrsebo
+text: there are quintillions of animals alive at any given time. somebody please vibe code a sequel where virtually everyone is born as a nematode and we finally understand what justice requires?
+created_at: Wed, 09 Sep 2026 00:35:41 GMT
+
+url: https://x.com/jeffrsebo/status/2097468604006469960
+id: 2097468604006469960
+user: jeffrsebo
+text: “All open problems” may be too strong. I could see “why is there something rather than nothing” taking until 2029 to crack. But this otherwise captures my current mood more or less exactly. Also: astonishingly few people are paying attention to the situation in general.
+created_at: Tue, 08 Sep 2026 23:34:18 GMT
+
+## Philip Goff @Philip_Goff
+該当なし
+
+## Susan Schneider @DrSueSchneider
+url: https://x.com/DrSueSchneider/status/2097497895444299810
+id: 2097497895444299810
+user: DrSueSchneider
+text: LLMs gobbling up the work of generations of mathematicians (and probably other GPT users),not crediting them. It’s synthesis of human genius, and it is wrong for OpenAI to take credit for it.
+created_at: Wed, 09 Sep 2026 01:30:42 GMT
+
+## Murray Shanahan @mpshanahan
+該当なし
+
+## Jonathan Birch @birchlse
+url: https://x.com/birchlse/status/2097430375194919120
+id: 2097430375194919120
+user: birchlse
+text: BBC and the Guardian agree that Glastonbury announcing a date for ticket sales is bigger news than AI solving a millennium problem. Fair enough I guess.
+created_at: Tue, 08 Sep 2026 21:02:24 GMT
+
+url: https://x.com/birchlse/status/2097428754758877685
+id: 2097428754758877685
+user: birchlse
+text: My guess is that interest from the frontier AI companies in open maths problems will be short-lived, whereas regular mathematicians aren't able to throw tens of millions of dollars at solving them.
+created_at: Tue, 08 Sep 2026 20:55:58 GMT
+
+url: https://x.com/birchlse/status/2097395118764392856
+id: 2097395118764392856
+user: birchlse
+text: They only claimed to have solved an adjacent problem, I thought. I'm not an expert in this.
+created_at: Tue, 08 Sep 2026 18:42:18 GMT
+
+url: https://x.com/birchlse/status/2097386312357536061
+id: 2097386312357536061
+user: birchlse
+text: We've now reached "major open problems in mathematics are a non-renewable resource that should not be depleted too quickly".
+created_at: Tue, 08 Sep 2026 18:07:19 GMT
+
+url: https://x.com/birchlse/status/2097385622029713884
+id: 2097385622029713884
+user: birchlse
+text: Easy to miss here that the problem was not only solved - it was solved in just 88 hours.
+created_at: Tue, 08 Sep 2026 18:04:34 GMT
+
+## Steven Pinker @sapinker
+url: https://x.com/sapinker/status/2097483314948956243
+id: 2097483314948956243
+user: sapinker
+text: The denouement to this scandal - academics and activists doubling down after their ludicrous beliefs were soundly debunked - reminds me of the founding story of cognitive dissonance theory, When Prophesy Fails, in which the great social psychologists Leon Festinger and Stanley Schacter infiltrated a nut cult predicting a millennial flood and rescue by UFOs, and when the prophesied event failed to occur, many clung to the prophesy but reinterpreted the date. (It turns out that the WPF claims themselves were partly contaminated & fabricated, but the researchers were basically right about the psychological phenomenon.)
+created_at: Wed, 09 Sep 2026 00:32:46 GMT
+
+url: https://x.com/sapinker/status/2097483312918868450
+id: 2097483312918868450
+user: sapinker
+text: Maarten Boudry @mboudry tartly comments on the sickness in academia unveiled by the canonization of the sociopathic liar Saint Arday. https://maartenboudry.substack.com/p/saints-sinners-and-suspensions?r=17uk7&utm_campaign=post-expanded-share&utm_medium=web
+created_at: Wed, 09 Sep 2026 00:32:45 GMT
+
+url: https://x.com/sapinker/status/2097410516557709705
+id: 2097410516557709705
+user: sapinker
+text: The Council on Academic Freedom at Harvard @cafh is bringing Jacob Mchangama, expert on the history of free speech, to speak at Harvard next week. — Harvard Gazette https://news.harvard.edu/harvard-events/events-calendar/?trumbaEmbed=view%3Devent%26eventid%3D207801733
+created_at: Tue, 08 Sep 2026 19:43:29 GMT
+
+url: https://x.com/sapinker/status/2097375439660425663
+id: 2097375439660425663
+user: sapinker
+text: Harvard study by my psychology department colleague Matt Nock predicts most suicide attempts a week in advance - quite a feat. Agitation, not depression, is the most common trigger.  https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance
+created_at: Tue, 08 Sep 2026 17:24:06 GMT
+
+url: https://x.com/sapinker/status/2097315272658911601
+id: 2097315272658911601
+user: sapinker
+text: Fascinating findings from my colleague Erin Hecht & her students on how selection (artificial) shaped brains (dogs') for verbal communication. |  How a little nurture, a little nature shaped your dog’s brain | Harvard FAS https://current.fas.harvard.edu/stories/how-little-nurture-little-nature-shaped-your-dogs-brain
+created_at: Tue, 08 Sep 2026 13:25:01 GMT
+
+## Henry Shevlin @dioscuri
+url: https://x.com/dioscuri/status/2097449240112824621
+id: 2097449240112824621
+user: dioscuri
+text: Jerry Fodor - "Many philosophers secretly harbor the view that there is something deeply (i.e., conceptually) wrong with psychology, but that a philosopher with a little training in the techniques of linguistic analysis and a free afternoon could straighten it out... Several years ago I found myself with a free afternoon."
+created_at: Tue, 08 Sep 2026 22:17:22 GMT
+
+url: https://x.com/dioscuri/status/2097448458521137179
+id: 2097448458521137179
+user: dioscuri
+text: Probably the greatest Britpop album of all time!
+created_at: Tue, 08 Sep 2026 22:14:15 GMT
+
+url: https://x.com/dioscuri/status/2097446520186425534
+id: 2097446520186425534
+user: dioscuri
+text: I'll be honest I never really noticed a narrative throughline
+created_at: Tue, 08 Sep 2026 22:06:33 GMT
+
+url: https://x.com/dioscuri/status/2097443666725851214
+id: 2097443666725851214
+user: dioscuri
+text: sure AI may be better at maths now but there's nothing stopping people from solving Millennium Prize Problems recreationally in their spare time
+created_at: Tue, 08 Sep 2026 21:55:13 GMT
+
+url: https://x.com/dioscuri/status/2097441154933403812
+id: 2097441154933403812
+user: dioscuri
+text: Turns out 8 is a rectangular number, who knew
+created_at: Tue, 08 Sep 2026 21:45:14 GMT
+
+url: https://x.com/dioscuri/status/2097418466571485272
+id: 2097418466571485272
+user: dioscuri
+text: As recently as April this year, prediction markets gave AI less than a 40% chance of solving any Millennium Prize Problem before **2030**
+created_at: Tue, 08 Sep 2026 20:15:05 GMT
+
+url: https://x.com/dioscuri/status/2097363628626149743
+id: 2097363628626149743
+user: dioscuri
+text: This is kind of weird and interesting, curious if you have a take.
+created_at: Tue, 08 Sep 2026 16:37:10 GMT
+
+url: https://x.com/dioscuri/status/2097307891858305476
+id: 2097307891858305476
+user: dioscuri
+text: I agree, and that’s largely what’s informing my prediction, but until we get some clear cut LLM discoveries I think the jury’s still technically out.
+created_at: Tue, 08 Sep 2026 12:55:42 GMT
+
+url: https://x.com/dioscuri/status/2097307292236407124
+id: 2097307292236407124
+user: dioscuri
+text: Yes, although I’d distinguish between applied science contributions from specialised architectures like GNoME (which have been useful for years) vs domain-general LLMs. As far as I’m aware we only have a handful of clearcut examples of the latter.
+created_at: Tue, 08 Sep 2026 12:53:19 GMT
+
+url: https://x.com/dioscuri/status/2097304778975981739
+id: 2097304778975981739
+user: dioscuri
+text: Partially, but the sceptic can insist that maths is a special domain, eg non-empirical, verifiable without experiments. It’s certainly striking that AI is doing Nobel-level work in maths before routine postdoc-level work in applied sciences! But I expect that’ll change now.
+created_at: Tue, 08 Sep 2026 12:43:20 GMT
+
+## John Ennis @johnennis
+url: https://x.com/johnennis/status/2097416747414372416
+id: 2097416747414372416
+user: johnennis
+text: I’m not crying and I don’t think you’re very excited about it
+created_at: Tue, 08 Sep 2026 20:08:15 GMT
+
+url: https://x.com/johnennis/status/2097416588177649985
+id: 2097416588177649985
+user: johnennis
+text: A big corporation rushing to scoop a customer is not a noble act
+created_at: Tue, 08 Sep 2026 20:07:37 GMT
+
+url: https://x.com/johnennis/status/2097409702162243628
+id: 2097409702162243628
+user: johnennis
+text: Good summary
+created_at: Tue, 08 Sep 2026 19:40:15 GMT
+
+url: https://x.com/johnennis/status/2097408667066773816
+id: 2097408667066773816
+user: johnennis
+text: I am super pro-AI so I’m not sure what you think you’re trying to say here
+created_at: Tue, 08 Sep 2026 19:36:08 GMT
+
+url: https://x.com/johnennis/status/2097408145714823295
+id: 2097408145714823295
+user: johnennis
+text: I don’t think they stole his messages
+
+I do think it’s possible that his chats were in the training data
+
+But even if they weren’t, it was a corporation rushing to scoop their own customer
+created_at: Tue, 08 Sep 2026 19:34:04 GMT
+
+url: https://x.com/johnennis/status/2097407866172776919
+id: 2097407866172776919
+user: johnennis
+text: It would’ve been a very nice moment for AI if they had offered to share the credit with Anthropic instead of trying to claim it all themselves
+
+The thing that derailed everything was freezing out the anthropic employee
+
+If I was the academic and put in that position, I would also not want to just freeze out my collaborator
+
+They didn’t have to try to be so cutthroat about it
+created_at: Tue, 08 Sep 2026 19:32:57 GMT
+
+url: https://x.com/johnennis/status/2097407572223406192
+id: 2097407572223406192
+user: johnennis
+text: Well, the two were related
+created_at: Tue, 08 Sep 2026 19:31:47 GMT
+
+url: https://x.com/johnennis/status/2097404684315078660
+id: 2097404684315078660
+user: johnennis
+text: Well, the rumor was that someone was close to it, and their fear was that it was anthropic, which was kind of true
+
+Still pretty shitty all in all
+created_at: Tue, 08 Sep 2026 19:20:19 GMT
+
+url: https://x.com/johnennis/status/2097404507483213943
+id: 2097404507483213943
+user: johnennis
+text: I think they can’t because this guy might have had data privacy turned off (since that’s the default)
+created_at: Tue, 08 Sep 2026 19:19:37 GMT
+
+url: https://x.com/johnennis/status/2097404341325881785
+id: 2097404341325881785
+user: johnennis
+text: Well, even if you don’t use them, it still means that they are kind of monster out there waiting to pounce if anyone gets wind that you are close to doing something big
+
+It means that researchers have to work in secrecy, which is the opposite of any kind of healthy open science
+created_at: Tue, 08 Sep 2026 19:18:57 GMT
