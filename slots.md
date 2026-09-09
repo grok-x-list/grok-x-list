@@ -1,8 +1,8 @@
 # 6枠 確定
 
-更新: 2026-09-09 13:20 JST
+更新: 2026-09-09 13:40 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-56人（9/10/10/10/9/8）。@elonmusk 外し。
+57人（9/10/10/10/9/9）。@elonmusk 外し。
 
 見出しは「名前 @handle」。
 
@@ -73,3 +73,4 @@
 - Steven Pinker @sapinker
 - Henry Shevlin @dioscuri
 - John Ennis @johnennis
+- 山川宏 @hymkw
