@@ -1,24 +1,20 @@
 # 6枠ドラフト（修正用）
 
-更新: 2026-09-09 JST
-1枠=10人。同じ枠の再取得は24時間後。取得幅は直近24時間。
-
-外した（低頻度・自動返信・再播／メディア火ホース）:
-@grok @KarlFristonNews @penrose @NBerggruen @NoemaMag @CenFutureAIMS @MillerLabMIT @StanDehaene @hakwanlau @MelMitchell1 @erikphoel @pgodfreysmith @Mark_Solms @damasiousc @Nature @WIRED @TheEconomist @ShaneLegg @percyliang @erikbryn @drfeifei @ilyasut @paulfchristiano @janleike @arthurmensch @polynoamial @ZixuanLi_ @donalddhoffman
-
----
+更新: 2026-09-09 11:43 JST
+同じ枠の再取得は24時間後。取得幅は直近24時間。
+現在 57人（10/10/10/10/9/8）。
 
 ## 枠1  00:00 JST
 - @elonmusk
-- @xai
 - @sama
 - @OpenAI
 - @AnthropicAI
 - @cursor_ai
 - @karpathy
-- @SemiAnalysis_
 - @davidchalmers42
-- @fish_kyle3
+- @ID_AA_Carmack
+- @simonw
+- @kanair
 
 ## 枠2  04:00 JST
 - @bot
@@ -27,10 +23,10 @@
 - @jackclarkSF
 - @GoogleDeepMind
 - @nvidia
-- @dylan522p
 - @fladdict
 - @StuartHameroff
-- @rgblong
+- @Mark_Solms
+- @KarlFristonNews
 
 ## 枠3  08:00 JST
 - @thsottiaux
@@ -42,19 +38,19 @@
 - @TheZvi
 - @hillbig
 - @Plinz
-- @patrickbutlin
+- @polynoamial
 
 ## 枠4  12:00 JST
 - @mustafasuleyman
 - @sundarpichai
 - @geoffreyhinton
 - @fchollet
-- @DrJimFan
 - @natolambert
 - @DanHendrycks
-- @NeelNanda5
 - @anilkseth
 - @AmandaAskell
+- @drmichaellevin
+- @MillerLabMIT
 
 ## 枠5  16:00 JST
 - @Yoshua_Bengio
@@ -66,16 +62,29 @@
 - @tegmark
 - @GaryMarcus
 - @blaiseaguera
-- @eleosai
 
 ## 枠6  20:00 JST
 - @jeffrsebo
 - @Philip_Goff
 - @DrSueSchneider
 - @mpshanahan
-- @algekalipso
 - @birchlse
 - @sapinker
 - @dioscuri
 - @johnennis
-- @CaseyNewton
+
+---
+
+## 今回入れた
+@Mark_Solms @KarlFristonNews @ID_AA_Carmack @drmichaellevin @kanair @MillerLabMIT @polynoamial @simonw
+@johnennis は枠6にそのまま
+
+## 今回外した
+@xai @SemiAnalysis_ @fish_kyle3 @dylan522p @rgblong @patrickbutlin @DrJimFan @NeelNanda5 @eleosai @algekalipso @CaseyNewton
+
+## 入れるかも（未入れ）
+@MelMitchell1 @erikbryn
+
+## 保留（枠に残している / 外に残している）
+枠内: @Yoshua_Bengio @DrSueSchneider @mpshanahan
+枠外: @percyliang
