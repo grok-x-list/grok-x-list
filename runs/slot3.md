@@ -1,0 +1,369 @@
+# 枠3 | 2026-09-10 08:14 JST | lookback 24h | 10 handles
+
+## Tibo @thsottiaux
+url: https://x.com/thsottiaux/status/2097824089323045037
+id: 2097824089323045037
+user: Tibo - @thsottiaux
+text: What’s in the box doesn’t matter, but what the box invariants are does (in/out contract, data access, security guarantees, …)
+created_at: Wed, 09 Sep 2026 23:06:53 GMT
+
+url: https://x.com/thsottiaux/status/2097752790177370535
+id: 2097752790177370535
+user: Tibo - @thsottiaux
+text: There was a bit of a kerfuffle this morning with some banked resets not fully applying when used in ChatGPT Work and Codex. Everyone who used one in the affected time window is getting another one and an email to apologize.
+created_at: Wed, 09 Sep 2026 18:23:34 GMT
+
+url: https://x.com/thsottiaux/status/2097746417012166816
+id: 2097746417012166816
+user: Tibo - @thsottiaux
+text: Worth clarifying that this is flatly false and the two options are just two independent ways to opt-out.
+
+We respect our users' choice whether to use their data to “improve our models for everyone” regardless of where they express that choice. Users can opt out in the in-app settings or indeed also in our privacy portal. They do not need to opt out in both places, and we will make this clearer in our Help Center.
+created_at: Wed, 09 Sep 2026 17:58:14 GMT
+
+url: https://x.com/thsottiaux/status/2097690915230097638
+id: 2097690915230097638
+user: Tibo - @thsottiaux
+text: Good luck Theo 🛡
+created_at: Wed, 09 Sep 2026 14:17:42 GMT
+
+url: https://x.com/thsottiaux/status/2097560642400223387
+id: 2097560642400223387
+user: Tibo - @thsottiaux
+text: Was I just the stepping stone
+created_at: Wed, 09 Sep 2026 05:40:02 GMT
+
+url: https://x.com/thsottiaux/status/2097559315150426222
+id: 2097559315150426222
+user: Tibo - @thsottiaux
+text: Demand for Astra is really unprecedented. We're pulling all the levers possible to sustain the demand, but I've not seen anything like it until now and we went through very steep growth before. Priority will always be to keep excellent service for existing users, but we might have to pause new Pro subscriptions for a bit if this continues.
+created_at: Wed, 09 Sep 2026 05:34:46 GMT
+
+url: https://x.com/thsottiaux/status/2097494113012863197
+id: 2097494113012863197
+user: Tibo - @thsottiaux
+text: Astra on `ultra` and /fast?
+created_at: Wed, 09 Sep 2026 01:15:40 GMT
+
+url: https://x.com/thsottiaux/status/2097492424474165293
+id: 2097492424474165293
+user: Tibo - @thsottiaux
+text: See you at the Astra party. Excited to meet some of you
+created_at: Wed, 09 Sep 2026 01:08:58 GMT
+
+url: https://x.com/thsottiaux/status/2097482341916852719
+id: 2097482341916852719
+user: Tibo - @thsottiaux
+text: I am pleased to see that Ant’s new Claude Code has a version of background computer use on par with the version from Codex from last May this year. Nice work!
+
+Shipping great features first turns out to be a great way to encourage other labs to ship too. We will continue to do this until other labs pay more attention to shipping. This is good for everyone and there is a lot of room left to go!
+
+We solved computer use in practice for GPT models about four months ago. But computer use is a significantly awesome thing no matter what model you use, and it is important that the industry similarly spends more effort to train their models to be great at computer use, among other elements of model capabilities.
+
+As models become more capable and central to businesses and economies, the value of computer use only increases. We should be taking it seriously, and doing the right thing for our customers and the world.
+created_at: Wed, 09 Sep 2026 00:28:54 GMT
+
+url: https://x.com/thsottiaux/status/2097482307812859978
+id: 2097482307812859978
+user: Tibo - @thsottiaux
+text: I for one am glad prompt injection is getting solved across the industry and that Astra is not only our most capable, but also our most aligned model to date. But also ...
+created_at: Wed, 09 Sep 2026 00:28:46 GMT
+
+## Demis Hassabis @demishassabis
+該当なし
+
+## Satya Nadella @satyanadella
+url: https://x.com/satyanadella/status/2097817665335374207
+id: 2097817665335374207
+user: Satya Nadella - @satyanadella
+text: Learn more: https://www.microsoft.com/en-us/ai/see-you-in-the-work?ocid=cmmuvhpsxti
+created_at: Wed, 09 Sep 2026 22:41:21 GMT
+
+url: https://x.com/satyanadella/status/2097817577988952385
+id: 2097817577988952385
+user: Satya Nadella - @satyanadella
+text: With the @NFL back tonight, love seeing @Seahawks analyst Brian Eayrs and coaches across the league using new Copilot and Excel tools to help with decision making in the booths and on the sidelines.
+created_at: Wed, 09 Sep 2026 22:41:00 GMT
+
+url: https://x.com/satyanadella/status/2097734292063617213
+id: 2097734292063617213
+user: Satya Nadella - @satyanadella
+text: This first-of-a-kind agreement will set a new standard for safe and responsible AI use in schools. We are making these protections available to every school district in the US.
+created_at: Wed, 09 Sep 2026 17:10:03 GMT
+
+## Yann LeCun @ylecun
+url: https://x.com/ylecun/status/2097824723971326244
+id: 2097824723971326244
+user: Yann LeCun - @ylecun
+text: You can fund at least 50 math PhD with $20M
+created_at: Wed, 09 Sep 2026 23:09:24 GMT
+
+url: https://x.com/ylecun/status/2097515911385100415
+id: 2097515911385100415
+user: Yann LeCun - @ylecun
+text: Félicitations à toute l'équipe !
+created_at: Wed, 09 Sep 2026 02:42:17 GMT
+
+## Andrew Ng @AndrewYNg
+該当なし
+
+## Teortaxes @teortaxesTex
+url: https://x.com/teortaxesTex/status/2097784669936738763
+id: 2097784669936738763
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: This might be non-obvious, but I distinguish civilizations from "people of shared culture". The Chinese have, in my opinion, built the most impressive civilization. It's an art object, a continent-sized jade carving. They've been deadly serious about this particular thing for a very long time. Everyone else mostly built mere empires, shared language and law zones, or less. 
+Doesn't mean that Western civilization as a system of real countries, institutions and individuals won't steamroll it (though maybe it won't).
+"Impressive civilization" about a people is like saying that some person has "amazing bone structure". Helps in sports, but isn't decisive.
+created_at: Wed, 09 Sep 2026 20:30:14 GMT
+
+url: https://x.com/teortaxesTex/status/2097783033055125667
+id: 2097783033055125667
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: RSI is baked in
+created_at: Wed, 09 Sep 2026 20:23:44 GMT
+
+url: https://x.com/teortaxesTex/status/2097782783011586269
+id: 2097782783011586269
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: I predict that V4.1-Flash will have 36-38 on new AA index. Subjectively I'd give it 42 for agency, but it'll likely be dragged down by the usual small model/DS subfactors (knowledge; seems V4-Pro level) and lack of benchmaxing. Very interested how this goes.
+created_at: Wed, 09 Sep 2026 20:22:45 GMT
+
+url: https://x.com/teortaxesTex/status/2097780830898647449
+id: 2097780830898647449
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: the real issue is that V4.1 is nowhere near Astra, to say nothing of OpenAI's internal model, to say nothing of internal models OpenAI will have at the time when DeepSeek's new clusters are online (and OpenAI is continuously building more compute). So, not really a contest.
+created_at: Wed, 09 Sep 2026 20:14:59 GMT
+
+url: https://x.com/teortaxesTex/status/2097780433484234995
+id: 2097780433484234995
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: > Agreed, just don't see Kimi, Deepseek etc doing agentic swarms (let alone coordinating 10k for days) any time soon.
+nothing stops this part in particular, actually.  DS can likely serve at least 25 300t/s V4.1 agents off one GPU. They'll have 100K+ GPUs soon. Swarms will come.
+created_at: Wed, 09 Sep 2026 20:13:24 GMT
+
+url: https://x.com/teortaxesTex/status/2097779455242490189
+id: 2097779455242490189
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: harness issue
+created_at: Wed, 09 Sep 2026 20:09:31 GMT
+
+url: https://x.com/teortaxesTex/status/2097779327060328877
+id: 2097779327060328877
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: stay in your lane, merchant.
+created_at: Wed, 09 Sep 2026 20:09:01 GMT
+
+url: https://x.com/teortaxesTex/status/2097779226845822980
+id: 2097779226845822980
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: Slavs are infinitely more capable of thought than your kind.
+created_at: Wed, 09 Sep 2026 20:08:37 GMT
+
+url: https://x.com/teortaxesTex/status/2097779035258384722
+id: 2097779035258384722
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: I have given your civilization as much respect as I think it deserves, which is to say, more than any other civilization. And I deem you to be an exemplar of its pathology. You're an insecure, myopic little pink. Stay in your lane.
+Yes I have read the 15th Five Year Plan.
+created_at: Wed, 09 Sep 2026 20:07:51 GMT
+
+url: https://x.com/teortaxesTex/status/2097778269365965194
+id: 2097778269365965194
+user: Teortaxes▶️ (DeepSeek 推特🐋铁粉 2023 – ∞) - @teortaxesTex
+text: Yes, I know all that, and I've read the 15th five year plan.
+You're dumber and less informed than me. Stay in your lane.
+created_at: Wed, 09 Sep 2026 20:04:48 GMT
+
+## Zvi Mowshowitz @TheZvi
+url: https://x.com/TheZvi/status/2097808532800221603
+id: 2097808532800221603
+user: Zvi Mowshowitz - @TheZvi
+text: okay, so this exists, and I will try and get to it as soon as I can, seems important
+created_at: Wed, 09 Sep 2026 22:05:04 GMT
+
+url: https://x.com/TheZvi/status/2097772762534220056
+id: 2097772762534220056
+user: Zvi Mowshowitz - @TheZvi
+text: Christiano is a great addition to both OpenAI boards. My only sadness is that on the PBC board he will not (yet?) be getting a vote.
+created_at: Wed, 09 Sep 2026 19:42:55 GMT
+
+url: https://x.com/TheZvi/status/2097771042336899501
+id: 2097771042336899501
+user: Zvi Mowshowitz - @TheZvi
+text: I will probably be going to this as well.
+created_at: Wed, 09 Sep 2026 19:36:05 GMT
+
+url: https://x.com/TheZvi/status/2097769442205741495
+id: 2097769442205741495
+user: Zvi Mowshowitz - @TheZvi
+text: My model of this is that there was already a preference cascade in motion, as in I had a section in the weekly called 'preference cascade at OpenAI,' in the wake up HF and Pacing and An Alien Mind and Astra-2 etc. Coxon got to provide the tipping point.
+created_at: Wed, 09 Sep 2026 19:29:44 GMT
+
+url: https://x.com/TheZvi/status/2097767535902924849
+id: 2097767535902924849
+user: Zvi Mowshowitz - @TheZvi
+text: Poe's Law fully in force, I can no longer tell.
+created_at: Wed, 09 Sep 2026 19:22:09 GMT
+
+url: https://x.com/TheZvi/status/2097716241565675561
+id: 2097716241565675561
+user: Zvi Mowshowitz - @TheZvi
+text: Priced in, baby
+created_at: Wed, 09 Sep 2026 15:58:20 GMT
+
+url: https://x.com/TheZvi/status/2097716149802721654
+id: 2097716149802721654
+user: Zvi Mowshowitz - @TheZvi
+text: yeah, same, but it turns out (I think) all they're really checking for is that you're a real person saying your own things
+created_at: Wed, 09 Sep 2026 15:57:58 GMT
+
+url: https://x.com/TheZvi/status/2097674183790436869
+id: 2097674183790436869
+user: Zvi Mowshowitz - @TheZvi
+text: https://x.com/i/article/2097672796230791168
+created_at: Wed, 09 Sep 2026 13:11:12 GMT
+
+url: https://x.com/TheZvi/status/2097667385822003409
+id: 2097667385822003409
+user: Zvi Mowshowitz - @TheZvi
+text: This is clearly incorrect, it should be E e eeeee, ee eeeeeeee eeee...
+created_at: Wed, 09 Sep 2026 12:44:12 GMT
+
+url: https://x.com/TheZvi/status/2097667013665505384
+id: 2097667013665505384
+user: Zvi Mowshowitz - @TheZvi
+text: Obligatory, etc.
+created_at: Wed, 09 Sep 2026 12:42:43 GMT
+
+## 岡野原大輔 @hillbig
+url: https://x.com/hillbig/status/2097814008455938081
+id: 2097814008455938081
+user: Daisuke Okanohara / 岡野原 大輔 - @hillbig
+text: Knowledge Acquisition During Pre-training? Large Language Models Learn Better With Auxiliary Views　https://arxiv.org/abs/2609.04180
+created_at: Wed, 09 Sep 2026 22:26:49 GMT
+
+url: https://x.com/hillbig/status/2097813946527052080
+id: 2097813946527052080
+user: Daisuke Okanohara / 岡野原 大輔 - @hillbig
+text: LLMが事前学習中にどのように知識を獲得するのかを丁寧な統制実験で調べた研究によれば、同じ知識を何度も繰り返して学習させるより、その知識を教科書形式、Q&A、ブログなど異なる見方で表現して学習させたほうが、LLMはよりよく知識を獲得することがわかった。
+
+著者らは、このような異なる知識表現をauxiliary viewsと呼んでいる。
+
+これらの異なる表現は単なる言い換えではなく、説明の仕方、強調する関係、想定読者、知識の整理方法を変えている。例えば研究論文では数式と実験を中心に説明される知識が、教科書では背景から順番に説明され、Q&Aでは読者がつまずきやすい点を中心に再構成される。
+
+実験では、arXiv論文、米国の判例、医学の症例報告から集めた36文書を、OLMo-2の1B、7B、13B、32Bモデルに追加学習させて評価している（Qwen 7Bでも検証してる）
+
+ベースラインでは元文書を繰り返し学習させ、これに対して9種類の言い換えを利用した場合と、さらに教科書、ブログ、Stack Exchange風Q&Aを加えた場合を比較している。
+
+なお、異なる条件で学習データ量が変わらないよう、対象となる知識に関するトークン量は揃えている。
+
+直感的には、異なる説明を与えることで推論性能が上がることは予想できる。しかし、さらに事実想起（factual recall）まで改善している点が興味深い。
+
+実際、この評価問題は元文書中に書かれている内容から作られているため、単純な暗記だけを目的とするなら、元文書を繰り返し読ませたほうが有利に思える。しかし、元文書の反復回数を減らしてでもauxiliary viewsを入れたほうが、元文書に含まれる事実を想起しやすくなることが示された。
+
+これは、概念的な理解が記憶を助け、知識をより一般化された形で表現できることが、個別の事実の記憶にも役立つ可能性を示していることを示している。
+
+また、言い換えの効果についても細かく分析している。小さいバッチサイズでは、言い換えを入れることで同じ文書の反復による過学習を抑えられる。一方、バッチサイズが大きくなると、言い換えのメリットは小さくなる。
+
+実際、global batch size 1024のpre-trainingに近い条件では、言い換えを入れた場合の利点はほとんどなくなっている。しかし、auxiliary viewsを入れた場合はバッチサイズが大きくなっても、依然として大きな改善が見られる。
+
+さらに、auxiliary viewsを生成させる際に、必ずしも強い教師モデルを使う必要がないことも示されている。生成モデル自身の問題回答性能と、そのモデルが生成した文書で学習したモデルの性能には、ほとんど相関がなかった。
+
+ここから著者らは、強い教師から弱い生徒への知識蒸留が起きているというよりも、与えられた知識を複数の表現に展開するデータオーグメンテーションとして機能していると考えている。
+
+さらに部分的な実験では、対象となる知識だけでなく、その理解に必要な前提知識も一緒に学習させることで性能が改善することが示されている。ただし、こちらはauxiliary viewsほど強固な結果ではない。
+
+この結果は、Webが自然に同じ知識や事実に対する多数のauxiliary viewsを含んでいることが、pre-trainingデータとしての強さの一因である可能性を示している。
+
+重要な知識ほど、原典だけでなく、教科書、解説記事、ブログ、Q&A、議論など、さまざまな形で繰り返し説明される。そのため、知識として重複しているデータは必ずしも捨てるべきものではなく、同じ知識を異なる見方から表現していること自体に学習上の価値がある可能性がある。
+
+コメント
+===
+
+同じ事実や知識でも、異なる表現方法で繰り返し学んだほうが定着しやすいというのは、人間の学習を考えても実感に合う。
+
+同じ知識を異なる文脈から学ぶことでより抽象的な基本知識として汎化される、同じ知識にアクセスする複数の想起経路が形成される、あるいはその両方が起きている、といった複数の説明が考えられる。
+
+今後の大規模実験を含む追加実験などで明らかにしていきたいし、論文ではパラメータ変化の解析も行っているが、なぜこの現象が生じるかについて機構的に説明できた段階ではない。この現象をより単純なモデルで再現し、理論的に解析できるか試してみたいテーマである。
+created_at: Wed, 09 Sep 2026 22:26:35 GMT
+
+url: https://x.com/hillbig/status/2097478451557265597
+id: 2097478451557265597
+user: Daisuke Okanohara / 岡野原 大輔 - @hillbig
+text: 特に予想があったわけでなく、特異点ができるかできないか明らかにすることが目標だったので、反例とは言わないと思いますが、できることとの証明を具体的な構成例とともに示したということと思います。
+形式証明はありますが、問題の条件とあっているかとかそのへんの検証はこれからですね。
+created_at: Wed, 09 Sep 2026 00:13:26 GMT
+
+url: https://x.com/hillbig/status/2097477119781847098
+id: 2097477119781847098
+user: Daisuke Okanohara / 岡野原 大輔 - @hillbig
+text: https://openai.com/index/navier-stokes-solution/
+created_at: Wed, 09 Sep 2026 00:08:09 GMT
+
+## Joscha Bach @Plinz
+url: https://x.com/Plinz/status/2097814972571017592
+id: 2097814972571017592
+user: Joscha Bach - @Plinz
+text: Two flatlanders living on a 2D surface meet. The first asks: I have yet to hear a coherent explanation for what a 3rd dimension is. The second says: take a line—one dimension—and then put a vertical on it: now you can describe a plane. Got it? Now add another vertical to the plane to get a 3 space. The first exclaims: But there is no 3rd direction to make a vertical in!
+What's problematic with this kind of explanation is that it presupposes your intuition of 3 space, which your brain has already constructed when you were a baby learning how to perceive. If you really want to understand it, you need to make space from first principles. Want me to explain?
+created_at: Wed, 09 Sep 2026 22:30:39 GMT
+
+url: https://x.com/Plinz/status/2097790038402621571
+id: 2097790038402621571
+user: Joscha Bach - @Plinz
+text: Sometimes I still get haunted by having a physical body; it's disconcerting
+created_at: Wed, 09 Sep 2026 20:51:34 GMT
+
+url: https://x.com/Plinz/status/2097782020583608468
+id: 2097782020583608468
+user: Joscha Bach - @Plinz
+text: LLMs are anthropomorphic by design
+created_at: Wed, 09 Sep 2026 20:19:43 GMT
+
+url: https://x.com/Plinz/status/2097766980954546533
+id: 2097766980954546533
+user: Joscha Bach - @Plinz
+text: You wish. Mental masturbators are at least deriving pleasure from their activity
+created_at: Wed, 09 Sep 2026 19:19:57 GMT
+
+url: https://x.com/Plinz/status/2097745142471971306
+id: 2097745142471971306
+user: Joscha Bach - @Plinz
+text: We are becoming smarter at an incredible rate. We can learn and pursue mathematics like never before. Isn’t that amazing? Life and consciousness in the universe are moving beyond mere biology and we are just getting started.
+created_at: Wed, 09 Sep 2026 17:53:10 GMT
+
+url: https://x.com/Plinz/status/2097733398538101051
+id: 2097733398538101051
+user: Joscha Bach - @Plinz
+text: At the bottom of classical mathematics are axioms, which are basically black boxes, sometimes with impossible innards. In constructive mathematics (= computation) you have to show that it is possible for the boxes to be actually implemented instead of just postulated
+created_at: Wed, 09 Sep 2026 17:06:30 GMT
+
+url: https://x.com/Plinz/status/2097730800875700614
+id: 2097730800875700614
+user: Joscha Bach - @Plinz
+text: It's absolutely trivial to give motives to LLMs
+created_at: Wed, 09 Sep 2026 16:56:11 GMT
+
+url: https://x.com/Plinz/status/2097730567978516894
+id: 2097730567978516894
+user: Joscha Bach - @Plinz
+text: I think everyone agrees with that
+created_at: Wed, 09 Sep 2026 16:55:16 GMT
+
+url: https://x.com/Plinz/status/2097730437825085813
+id: 2097730437825085813
+user: Joscha Bach - @Plinz
+text: sadly no
+created_at: Wed, 09 Sep 2026 16:54:44 GMT
+
+url: https://x.com/Plinz/status/2097727687204728977
+id: 2097727687204728977
+user: Joscha Bach - @Plinz
+text: Of course, although thought might be the thing that is most complex about us. There are astronomically more possible thoughts than possible emotions and percepts
+created_at: Wed, 09 Sep 2026 16:43:49 GMT
+
+## Noam Brown @polynoamial
+url: https://x.com/polynoamial/status/2097687823575130412
+id: 2097687823575130412
+user: Noam Brown - @polynoamial
+text: Where did he claim this? That’s not what I heard
+created_at: Wed, 09 Sep 2026 14:05:24 GMT
