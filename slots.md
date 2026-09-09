@@ -1,8 +1,8 @@
 # 6枠 確定
 
-更新: 2026-09-09 13:40 JST
+更新: 2026-09-09 14:06 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-57人（9/10/10/10/9/9）。@elonmusk 外し。
+60人（10/10/10/10/10/10）。@elonmusk 外し。
 
 見出しは「名前 @handle」。
 
@@ -16,6 +16,7 @@
 - John Carmack @ID_AA_Carmack
 - Simon Willison @simonw
 - 金井良太 @kanair
+- Robert Long @rgblong
 
 ## 枠2  04:00 JST
 - Grok Bot @bot
@@ -63,6 +64,7 @@
 - Max Tegmark @tegmark
 - Gary Marcus @GaryMarcus
 - Blaise Agüera y Arcas @blaiseaguera
+- Patrick Butlin @patrickbutlin
 
 ## 枠6  20:00 JST
 - Jeff Sebo @jeffrsebo
@@ -74,3 +76,4 @@
 - Henry Shevlin @dioscuri
 - John Ennis @johnennis
 - 山川宏 @hymkw
+- Elliott Thornley @ElliottThornley
