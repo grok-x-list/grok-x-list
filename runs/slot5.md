@@ -1,0 +1,224 @@
+# 枠5 | 2026-09-09 12:35 JST | lookback 24h | 9 handles
+
+## Yoshua Bengio @Yoshua_Bengio
+url: https://x.com/Yoshua_Bengio/status/2097311271330697367
+id: 2097311271330697367
+user: Yoshua_Bengio
+text: Je serai au sommet @allincanada le 17 septembre pour partager comment évolue l’agenda de recherche de @LawZero qui est en pleine croissance dans le cadre d’une conversation sur le thème de Concevoir des systèmes d’IA honnêtes, fiables et sécuritaires.
+created_at: Tue, 08 Sep 2026 13:09:07 GMT
+
+url: https://x.com/Yoshua_Bengio/status/2097311032645497148
+id: 2097311032645497148
+user: Yoshua_Bengio
+text: I will be at @allincanada on September 17 to give an update on @LawZero’s research agenda and growth as part of a fireside chat on Engineering Honesty and Reliability for Safer AI!
+created_at: Tue, 08 Sep 2026 13:08:10 GMT
+
+## Patrick Collison @patrickc
+url: https://x.com/patrickc/status/2097406190104002775
+id: 2097406190104002775
+user: patrickc
+text: I've been enjoying Muse: https://muse.ai/?aymh_complete=1 Among many other things, you can use it to buy anywhere on the internet with @link.
+created_at: Tue, 08 Sep 2026 19:26:18 GMT
+
+## Thomas Wolf @Thom_Wolf
+url: https://x.com/Thom_Wolf/status/2097469534512787514
+id: 2097469534512787514
+user: Thom_Wolf
+text: Great work!
+created_at: Tue, 08 Sep 2026 23:38:00 GMT
+
+url: https://x.com/Thom_Wolf/status/2097356014873931777
+id: 2097356014873931777
+user: Thom_Wolf
+text: Mistral raising this massive 3B round is a very good news for open-source.
+
+Largest equity round by a company open-sourcing models, and which deeply believe in giving its users control/ownership of their models
+
+Congrats!
+
+We ready for Le Chaton Fat
+created_at: Tue, 08 Sep 2026 16:06:55 GMT
+
+url: https://x.com/Thom_Wolf/status/2097318628957761676
+id: 2097318628957761676
+user: Thom_Wolf
+text: well said
+created_at: Tue, 08 Sep 2026 13:38:22 GMT
+
+url: https://x.com/Thom_Wolf/status/2097302361416860147
+id: 2097302361416860147
+user: Thom_Wolf
+text: Impressive work!
+created_at: Tue, 08 Sep 2026 12:33:43 GMT
+
+url: https://x.com/Thom_Wolf/status/2097288889304043894
+id: 2097288889304043894
+user: Thom_Wolf
+text: I think this specific insulation is much likely wrong though
+created_at: Tue, 08 Sep 2026 11:40:11 GMT
+
+url: https://x.com/Thom_Wolf/status/2097281298758803484
+id: 2097281298758803484
+user: Thom_Wolf
+text: okay that’s the best take
+created_at: Tue, 08 Sep 2026 11:10:01 GMT
+
+url: https://x.com/Thom_Wolf/status/2097252167077814655
+id: 2097252167077814655
+user: Thom_Wolf
+text: Nice work Amina
+created_at: Tue, 08 Sep 2026 09:14:16 GMT
+
+url: https://x.com/Thom_Wolf/status/2097241243143008491
+id: 2097241243143008491
+user: Thom_Wolf
+text: I definitely tend to be biased in favor of academia and proper and transparent research work.
+
+But I’m known to change my mind under evidence. Also I know a lot of people I deeply respect at OpenAI and Anthropic which is why I’m all the more more surprised to read something like that happening.
+
+If this is real, this mentality definitely can not be tolerated
+created_at: Tue, 08 Sep 2026 08:30:51 GMT
+
+url: https://x.com/Thom_Wolf/status/2097218907832459434
+id: 2097218907832459434
+user: Thom_Wolf
+text: You should probably post asap Sebastian - we like your work don’t let it get out of your hand
+created_at: Tue, 08 Sep 2026 07:02:06 GMT
+
+url: https://x.com/Thom_Wolf/status/2097218039364112875
+id: 2097218039364112875
+user: Thom_Wolf
+text: Now even if it’s triggering to read Tristan’s report we should wait and hear the other side of the story as well
+created_at: Tue, 08 Sep 2026 06:58:39 GMT
+
+## Clem Delangue @ClementDelangue
+url: https://x.com/ClementDelangue/status/2097324015819825202
+id: 2097324015819825202
+user: ClementDelangue
+text: Bravo to Mistral!
+
+So great to see them killing it, they are an inspiration to everyone as we need more sovereign & open-source AI everywhere around the world.
+
+Excited to keep supporting them on https://huggingface.co/mistralai
+created_at: Tue, 08 Sep 2026 13:59:46 GMT
+
+url: https://x.com/ClementDelangue/status/2097323127436935349
+id: 2097323127436935349
+user: ClementDelangue
+text: beautiful!
+created_at: Tue, 08 Sep 2026 13:56:14 GMT
+
+## Dwarkesh Patel @dwarkesh_sp
+url: https://x.com/dwarkesh_sp/status/2097383232870514710
+id: 2097383232870514710
+user: dwarkesh_sp
+text: https://t.co/bog1kkhMi3
+created_at: Tue, 08 Sep 2026 17:55:04 GMT
+
+url: https://x.com/dwarkesh_sp/status/2097382635911954878
+id: 2097382635911954878
+user: dwarkesh_sp
+text: Yup. As we say in the blog post, our experiment doesn't have visibility into the scale-dependent wins, across both model and data improvements.
+
+Btw we actually did extend this experiment with Delphi (2026), and found that it had 2.46x CEGs relative to the 2019 GPT-2 baseline (as opposed to 1.82x for Olmo2) on the FineWebEdu dataset.
+
+We didn't include it since 2026 is not over yet. We might see an even better recipe by the time the year is out, and we can rerun this experiment then.
+
+Also, tbc, we're not trying to nail down each year's most novel architecture - we're just trying to codify a representative and popular recipe for every year.
+created_at: Tue, 08 Sep 2026 17:52:42 GMT
+
+url: https://x.com/dwarkesh_sp/status/2097377640332276188
+id: 2097377640332276188
+user: dwarkesh_sp
+text: Super impressive. Congrats!
+
+And maybe suggests that during RSI, the automated AI researchers will be less bottlenecked by compute than we might naively think.
+created_at: Tue, 08 Sep 2026 17:32:51 GMT
+
+url: https://x.com/dwarkesh_sp/status/2097374972151058735
+id: 2097374972151058735
+user: dwarkesh_sp
+text: Thanks Elie! Even beyond your points, another big way in which our results might be understating model improvements is that their value may be only evident if we tested at larger scale.
+
+We will try to release model checkpoints too - good suggestion.
+created_at: Tue, 08 Sep 2026 17:22:15 GMT
+
+url: https://x.com/dwarkesh_sp/status/2097359573581799481
+id: 2097359573581799481
+user: dwarkesh_sp
+text: Pretraining progress seems to be coming mostly from data improvements.
+
+@who_is_jerbear and I pretrained combinations of year-representative open model recipes and data corpuses across 2019 to 2025 at various small scales.
+
+Data improvements contributed 3.24x as many compute multipliers as model improvements did (12.0x vs 3.7x).
+
+And the gains stack independently - a better dataset helps every architecture about equally, and vice versa.
+
+Here are raw results, plus what we think this means for the future of AI progress:
+created_at: Tue, 08 Sep 2026 16:21:04 GMT
+
+## Eliezer Yudkowsky @ESYudkowsky
+該当なし（検索エラー）
+
+## Max Tegmark @tegmark
+該当なし
+
+## Gary Marcus @GaryMarcus
+url: https://x.com/GaryMarcus/status/2097527228536091081
+id: 2097527228536091081
+user: GaryMarcus
+text: this kind of zero sum thinking will likely get many of us killed
+created_at: Wed, 09 Sep 2026 03:27:16 GMT
+
+url: https://x.com/GaryMarcus/status/2097526781524013358
+id: 2097526781524013358
+user: GaryMarcus
+text: ❤️🙏
+created_at: Wed, 09 Sep 2026 03:25:29 GMT
+
+url: https://x.com/GaryMarcus/status/2097524880845738071
+id: 2097524880845738071
+user: GaryMarcus
+text: “real science is not a clout chase on social media or a compute spike spent to rob the clay mathematics institute it is a quest for elegance physical truth and universal rigor to decode reality true artificial intelligence will not emerge from hostile corporate takeover of academic work hidden behind computational bruteforce but from architectures capable of generating new conceptual paradigms by masquerading constrained formalization as the collapse of physics greatest mysteries you did not solve navier stokes you only proved how far silicon valley will go to prostitute scientific integrity for capitalist spectacle”
+created_at: Wed, 09 Sep 2026 03:17:56 GMT
+
+url: https://x.com/GaryMarcus/status/2097518807413899760
+id: 2097518807413899760
+user: GaryMarcus
+text: Can there be any doubt left that all this shit is heading a bad direction?
+
+https://garymarcus.substack.com/p/two-dire-warnings-one-from-terence
+created_at: Wed, 09 Sep 2026 02:53:48 GMT
+
+url: https://x.com/GaryMarcus/status/2097517567766351892
+id: 2097517567766351892
+user: GaryMarcus
+text: 🔥
+created_at: Wed, 09 Sep 2026 02:48:52 GMT
+
+url: https://x.com/GaryMarcus/status/2097511586172998113
+id: 2097511586172998113
+user: GaryMarcus
+text: Best use of generative AI ever?
+created_at: Wed, 09 Sep 2026 02:25:06 GMT
+
+url: https://x.com/GaryMarcus/status/2097493850579439753
+id: 2097493850579439753
+user: GaryMarcus
+text: read the whole thread. although i don’t 100% agree with certain bits it is compelling and informed from the inside perspective that definitely deserves to be heard.
+created_at: Wed, 09 Sep 2026 01:14:38 GMT
+
+url: https://x.com/GaryMarcus/status/2097458318667329664
+id: 2097458318667329664
+user: GaryMarcus
+text: 🤣
+created_at: Tue, 08 Sep 2026 22:53:26 GMT
+
+url: https://x.com/GaryMarcus/status/2097457825069072784
+id: 2097457825069072784
+user: GaryMarcus
+text: 🤣🤣😢
+created_at: Tue, 08 Sep 2026 22:51:29 GMT
+
+## Blaise Agüera y Arcas @blaiseaguera
+該当なし
