@@ -1,6 +1,6 @@
 # 6枠 確定
 
-更新: 2026-09-09 14:06 JST
+更新: 2026-09-10 22:22 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
 60人（10/10/10/10/10/10）。@elonmusk 外し。
 
@@ -60,7 +60,7 @@
 - Thomas Wolf @Thom_Wolf
 - Clem Delangue @ClementDelangue
 - Dwarkesh Patel @dwarkesh_sp
-- Eliezer Yudkowsky @ESYudkowsky
+- Eliezer Yudkowsky @allTheYud
 - Max Tegmark @tegmark
 - Gary Marcus @GaryMarcus
 - Blaise Agüera y Arcas @blaiseaguera
