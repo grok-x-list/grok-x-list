@@ -228,7 +228,7 @@ https://www.youtube.com/watch?si=fUMQ6d_VgDdyAUHv&v=qEt5CQ5Mz7U&feature=youtu.be
 - Previously the reason to do a startup first was to make money to fund the pro-bono stuff. But you should take into account how much AI-risk-concerned money is gonna get dumped into the ecosystem as these IPOs happen, desperately searching for useful projects to fund. Wealth will be abundant - what will be rare are founders who can own these key problems.
   created_at: Wed, 09 Sep 2026 15:24:16 GMT
 
-## Eliezer Yudkowsky @ESYudkowsky
+## Eliezer Yudkowsky @allTheYud
 
 該当なし
 
