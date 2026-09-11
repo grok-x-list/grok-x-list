@@ -1,8 +1,8 @@
 # 6枠 確定
 
-更新: 2026-09-11 20:25 JST
+更新: 2026-09-11 20:31 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-58人（9/9/10/10/10/10）。すべて10以内。
+59人（9/10/10/10/10/10）。すべて10以内。
 時刻: 枠1=12:00 / 枠2=16:00 / 枠3=20:00 / 枠4=00:00 / 枠5=04:00 / 枠6=08:00 JST
 
 見出しは「名前 @handle」。
@@ -28,6 +28,7 @@
 - Karl Friston @KarlFristonNews
 - Jonathan Birch @birchlse
 - Murray Shanahan @mpshanahan
+- Dan Williams @danwilliamsphil
 
 ## 枠3  20:00 JST
 - Yoshua Bengio @Yoshua_Bengio
