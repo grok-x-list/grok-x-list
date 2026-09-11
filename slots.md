@@ -1,8 +1,9 @@
 # 6枠 確定
 
-更新: 2026-09-11 16:02 JST
+更新: 2026-09-11 16:10 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-59人（10/9/10/10/10/10）。@elonmusk 外し。深津貴之 @fladdict 削除。
+57人（10/8/10/10/9/10）。@elonmusk 外し。
+削除: 深津貴之 @fladdict、Patrick Collison @patrickc、NVIDIA @nvidia。
 Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）。
 
 見出しは「名前 @handle」。
@@ -25,7 +26,6 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - Dario Amodei @DarioAmodei
 - Jack Clark @jackclarkSF
 - Google DeepMind @GoogleDeepMind
-- NVIDIA @nvidia
 - Stuart Hameroff @StuartHameroff
 - Mark Solms @Mark_Solms
 - Karl Friston @KarlFristonNews
@@ -56,7 +56,6 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 
 ## 枠5  16:00 JST
 - Yoshua Bengio @Yoshua_Bengio
-- Patrick Collison @patrickc
 - Thomas Wolf @Thom_Wolf
 - Clem Delangue @ClementDelangue
 - Dwarkesh Patel @dwarkesh_sp
