@@ -1,14 +1,13 @@
 # 6枠 確定
 
-更新: 2026-09-11 16:10 JST
+更新: 2026-09-11 16:21 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-57人（10/8/10/10/9/10）。@elonmusk 外し。
-削除: 深津貴之 @fladdict、Patrick Collison @patrickc、NVIDIA @nvidia。
-Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）。
+57人（10/8/10/10/9/10）。
+時刻: 枠1=12:00 / 枠2=16:00 / 枠3=20:00 / 枠4=00:00 / 枠5=04:00 / 枠6=08:00 JST
 
 見出しは「名前 @handle」。
 
-## 枠1  00:00 JST
+## 枠1  12:00 JST
 - Sam Altman @sama
 - OpenAI @OpenAI
 - Anthropic @AnthropicAI
@@ -20,7 +19,7 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - 金井良太 @kanair
 - Robert Long @rgblong
 
-## 枠2  04:00 JST
+## 枠2  16:00 JST
 - Grok Bot @bot
 - Greg Brockman @gdb
 - Dario Amodei @DarioAmodei
@@ -30,7 +29,7 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - Mark Solms @Mark_Solms
 - Karl Friston @KarlFristonNews
 
-## 枠3  08:00 JST
+## 枠3  20:00 JST
 - Tibo @thsottiaux
 - Demis Hassabis @demishassabis
 - Satya Nadella @satyanadella
@@ -42,7 +41,7 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - Joscha Bach @Plinz
 - Noam Brown @polynoamial
 
-## 枠4  12:00 JST
+## 枠4  00:00 JST
 - Mustafa Suleyman @mustafasuleyman
 - Sundar Pichai @sundarpichai
 - Geoffrey Hinton @geoffreyhinton
@@ -54,7 +53,7 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - Michael Levin @drmichaellevin
 - Earl Miller @MillerLabMIT
 
-## 枠5  16:00 JST
+## 枠5  04:00 JST
 - Yoshua Bengio @Yoshua_Bengio
 - Thomas Wolf @Thom_Wolf
 - Clem Delangue @ClementDelangue
@@ -65,7 +64,7 @@ Andrej Karpathy @karpathy と John Ennis @johnennis を交換（枠1↔枠6）�
 - Blaise Agüera y Arcas @blaiseaguera
 - Patrick Butlin @patrickbutlin
 
-## 枠6  20:00 JST
+## 枠6  08:00 JST
 - Jeff Sebo @jeffrsebo
 - Philip Goff @Philip_Goff
 - Susan Schneider @DrSueSchneider
