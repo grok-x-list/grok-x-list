@@ -1,8 +1,8 @@
 # 6枠 確定
 
-更新: 2026-09-11 18:09 JST
+更新: 2026-09-11 18:21 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-57人（10/7/11/10/9/10）。
+57人（10/8/10/10/9/10）。
 時刻: 枠1=12:00 / 枠2=16:00 / 枠3=20:00 / 枠4=00:00 / 枠5=04:00 / 枠6=08:00 JST
 
 見出しは「名前 @handle」。
@@ -27,6 +27,7 @@
 - Google DeepMind @GoogleDeepMind
 - Mark Solms @Mark_Solms
 - Karl Friston @KarlFristonNews
+- 岡野原大輔 @hillbig
 
 ## 枠3  20:00 JST
 - Yoshua Bengio @Yoshua_Bengio
@@ -36,7 +37,6 @@
 - Andrew Ng @AndrewYNg
 - Teortaxes @teortaxesTex
 - Zvi Mowshowitz @TheZvi
-- 岡野原大輔 @hillbig
 - Joscha Bach @Plinz
 - Noam Brown @polynoamial
 - Anil Seth @anilkseth
