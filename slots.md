@@ -1,8 +1,8 @@
 # 6枠 確定
 
-更新: 2026-09-11 18:50 JST
+更新: 2026-09-11 20:12 JST
 同じ枠の再取得は24時間後。取得幅は直近24時間。
-57人（10/9/10/10/10/8）。すべて10以内。
+57人（9/9/10/10/10/9）。すべて10以内。
 時刻: 枠1=12:00 / 枠2=16:00 / 枠3=20:00 / 枠4=00:00 / 枠5=04:00 / 枠6=08:00 JST
 
 見出しは「名前 @handle」。
@@ -17,7 +17,6 @@
 - John Carmack @ID_AA_Carmack
 - Simon Willison @simonw
 - 金井良太 @kanair
-- Robert Long @rgblong
 
 ## 枠2  16:00 JST
 - Grok Bot @bot
@@ -75,3 +74,4 @@
 - 山川宏 @hymkw
 - Elliott Thornley @ElliottThornley
 - 岡野原大輔 @hillbig
+- Robert Long @rgblong
