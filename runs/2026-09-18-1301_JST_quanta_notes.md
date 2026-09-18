@@ -212,6 +212,7 @@ This is why I increasingly think AI risk should be decomposed along several axes
 — authority: what can it act on?
 — persistence: how long can it continue pursuing an objective?
 — strategic agency: can it model itself and its environment in ways that change its strategy?
+
 — corrigibility: does it treat external correction as an update to incorporate, or as an obstacle to overcome?
 
 Without these distinctions, evidence for one kind of risk can quietly become evidence for another.
